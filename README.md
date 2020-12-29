@@ -1,2 +1,0 @@
-# gunesnedir.github.io
-website
